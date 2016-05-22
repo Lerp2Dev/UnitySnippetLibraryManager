@@ -19,4 +19,4 @@ With this asset you can see all pages from UnifyCommunity Wiki (aka Unity Wiki) 
 
 Asset link: https://www.assetstore.unity3d.com/#!/content/xxx
 
-Página del equipo: http://lerp2dev.com/
+Team website: http://lerp2dev.com/
