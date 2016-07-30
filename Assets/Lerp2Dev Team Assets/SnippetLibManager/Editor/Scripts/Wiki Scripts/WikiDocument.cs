@@ -8,6 +8,7 @@ public class WikiDocument : WikiPage
     private static readonly TagType[] types = new TagType[1] { TagType.All };
     public static WikiDocument GetContents(WikiParams wp)
     {
+        Wiki.scrScroll = UnityEngine.Vector2.zero;
         string url = wp.Url;
         var doc = new HtmlWeb()
             .Load(url);
