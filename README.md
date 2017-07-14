@@ -1,19 +1,19 @@
 # UnitySnippetLibraryManager
 
-##SNIPPET LIBRARY MANAGER for Unity
+## SNIPPET LIBRARY MANAGER for Unity
 
-###Introduction
+### Introduction
 
 With this asset you can see all pages from UnifyCommunity Wiki (aka Unity Wiki) in your Unity Editor.
 
-###Main features:
+### Main features:
 
 - Visit all the sections from thw Wiki: Extensions, Particle Library, Programming, Scripts, Shaders, Wizards.
 - Download and copy to clipboard the code from the Wiki.
 - See geshi code from Wiki.
 - Search script in a quickly way by using search.
 
-###Future features:
+### Future features:
 
 - In the future will be available other 2 sections (Team Library and Repositories).
 
